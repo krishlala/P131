@@ -1,0 +1,31 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+text-align: center;
+}
+
+
+body{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-image: linear-gradient(to right bottom, #0011ff, #008cff, #008cff);
+}
+
+h1{
+    text-align: center;
+}
+
+button
+{
+    margin-top: 50px;
+    width: 300px !important;
+    border-radius: 50px !important;
+}
+
+.notebook
+{
+    margin-bottom: 280px;
+}
